@@ -1,0 +1,17 @@
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\WordUnScrambler.Test.Unit.dll
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\WordUnScrambler.Test.Unit.pdb
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\WordUnScrambler.exe
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\WordUnScrambler.pdb
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\WordUnScrambler.exe.config
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\obj\Debug\WordUnScrambler.Test.Unit.csprojAssemblyReference.cache
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\obj\Debug\WordUnScrambler.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\obj\Debug\WordUnScrambler.Test.Unit.csproj.CopyComplete
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\obj\Debug\WordUnScrambler.Test.Unit.dll
+C:\Users\chira\source\repos\WordUnScrambler\WordUnScrambler.Test.Unit\obj\Debug\WordUnScrambler.Test.Unit.pdb
